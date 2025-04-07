@@ -90,25 +90,29 @@ def train_model(model, train_loader, criterion, optimizer, epochs):
 
 ## Dataset Information
 
-![image](https://github.com/user-attachments/assets/70cb442d-521a-4133-a16a-d6469cd357bc)
+![image](https://github.com/user-attachments/assets/cf38f649-2cfa-4913-8f63-db9ed7431497)
+
 
 
 ## OUTPUT
 ### Confusion Matrix
 
-![image](https://github.com/user-attachments/assets/c1de8970-7729-4fdc-a01d-032f5d2f6907)
+![image](https://github.com/user-attachments/assets/81288dba-d284-44ad-a613-78299b943226)
+
 
 
 
 ### Classification Report
 
-![image](https://github.com/user-attachments/assets/73ab7111-22d4-466d-9be6-d2379df5bd4b)
+![image](https://github.com/user-attachments/assets/c3eac8c3-348d-41a1-af5b-b58a05cbcb02)
+
 
 
 
 
 ### New Sample Data Prediction
-![image](https://github.com/user-attachments/assets/ec1fec9a-8a1f-4332-a9ff-ca8f66cc4450)
+![image](https://github.com/user-attachments/assets/4e95464e-d877-4ca6-b3b9-5e1b42ba3368)
+
 
 
 
